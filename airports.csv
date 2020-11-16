@@ -1,0 +1,40 @@
+IATA_CODE,AIRPORT,CITY,STATE,COUNTRY,LATITUDE,LONGITUDE
+ANC,Ted Stevens Anchorage International Airport,Anchorage,AK,USA,61.17432,-149.99619
+ATL,Hartsfield-Jackson Atlanta International Airport,Atlanta,GA,USA,33.64044,-84.42694
+AUS,Austin-Bergstrom International Airport,Austin,TX,USA,30.19453,-97.66987
+BNA,Nashville International Airport,Nashville,TN,USA,36.12448,-86.67818
+BOS,Gen. Edward Lawrence Logan International Airport,Boston,MA,USA,42.36435,-71.00518
+BUR,Bob Hope Airport (Hollywood Burbank Airport),Burbank,CA,USA,34.20062,-118.3585
+BWI,Baltimore-Washington International Airport,Baltimore,MD,USA,39.1754,-76.6682
+CLT,Charlotte Douglas International Airport,Charlotte,NC,USA,35.21401,-80.94313
+DCA,Ronald Reagan Washington National Airport,Arlington,VA,USA,38.85208,-77.03772
+DEN,Denver International Airport,Denver,CO,USA,39.85841,-104.667
+DFW,Dallas/Fort Worth International Airport,Dallas-Fort Worth,TX,USA,32.89595,-97.0372
+DTW,Detroit Metropolitan Airport,Detroit,MI,USA,42.21206,-83.34884
+FAT,Fresno Yosemite International Airport,Fresno,CA,USA,36.77619,-119.71814
+HNL,Honolulu International Airport,Honolulu,HI,USA,21.31869,-157.92241
+HOU,William P. Hobby Airport,Houston,TX,USA,29.64542,-95.27889
+IAD,Washington Dulles International Airport,Chantilly,VA,USA,38.94453,-77.45581
+IAH,George Bush Intercontinental Airport,Houston,TX,USA,29.98047,-95.33972
+IND,Indianapolis International Airport,Indianapolis,IN,USA,39.71733,-86.29438
+JAX,Jacksonville International Airport,Jacksonville,FL,USA,30.49406,-81.68786
+JFK,John F. Kennedy International Airport (New York International Airport),New York,NY,USA,40.63975,-73.77893
+LAS,McCarran International Airport,Las Vegas,NV,USA,36.08036,-115.15233
+LAX,Los Angeles International Airport,Los Angeles,CA,USA,33.94254,-118.40807
+LGA,LaGuardia Airport (Marine Air Terminal),New York,NY,USA,40.77724,-73.87261
+MCI,Kansas City International Airport,Kansas City,MO,USA,39.29761,-94.71391
+MCO,Orlando International Airport,Orlando,FL,USA,28.42889,-81.31603
+MDW,Chicago Midway International Airport,Chicago,IL,USA,41.78598,-87.75242
+MEM,Memphis International Airport,Memphis,TN,USA,35.04242,-89.97667
+MIA,Miami International Airport,Miami,FL,USA,25.79325,-80.29056
+MSY,Louis Armstrong New Orleans International Airport,New Orleans,LA,USA,29.99339,-90.25803
+ORD,Chicago O'Hare International Airport,Chicago,IL,USA,41.9796,-87.90446
+PDX,Portland International Airport,Portland,OR,USA,45.58872,-122.5975
+PPG,Pago Pago International Airport (Tafuna Airport),Pago Pago,AS,USA,14.33102,-170.71053
+PWM,Portland International Jetport,Portland,ME,USA,43.64617,-70.30875
+SAN,San Diego International Airport (Lindbergh Field),San Diego,CA,USA,32.73356,-117.18966
+SBN,South Bend International Airport (South Bend Regional),South Bend,IN,USA,41.70895,-86.31847
+SFO,San Francisco International Airport,San Francisco,CA,USA,37.619,-122.37484
+STL,St. Louis International Airport at Lambert Field,St Louis,MO,USA,38.74769,-90.35999
+STT,Cyril E. King Airport,Charlotte Amalie,VI,USA,18.33731,-64.97336
+STX,Henry E. Rohlsen Airport,Christiansted,VI,USA,17.70189,-64.79856
